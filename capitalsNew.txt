@@ -1,0 +1,4 @@
+Japan : Tokyo : 1
+Bulgaria : Sofia : 1
+France : Paris : 1
+Russia : Moscow : 3

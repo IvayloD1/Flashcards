@@ -1,0 +1,55 @@
+Input the action (add, remove, import, export, ask, log, hardest card, reset stats, exit):
+add
+The card:
+Bulgaria
+The definition of card:
+Sofia
+The pair ("Bulgaria" : "Sofia") has been added.
+
+Input the action (add, remove, import, export, ask, log, hardest card, reset stats, exit):
+add
+The card:
+Japan
+The definition of card:
+Tokyo
+The pair ("Japan" : "Tokyo") has been added.
+
+Input the action (add, remove, import, export, ask, log, hardest card, reset stats, exit):
+ask
+How many times to ask?
+3
+Print the definition of "Bulgaria":
+
+Tokyo
+Wrong. The right answer is "Sofia", but your definition is correct for "Japan".
+
+Print the definition of "Japan":
+
+Tokyo
+Correct!
+Print the definition of "Japan":
+
+Moscow
+Wrong. The right answer is "Tokyo".
+Input the action (add, remove, import, export, ask, log, hardest card, reset stats, exit):
+import
+File name:
+capitals.txt
+2 cards have been loaded.
+Input the action (add, remove, import, export, ask, log, hardest card, reset stats, exit):
+export
+File Name:
+capitalsNew.txt
+4 cards have been saved.
+Input the action (add, remove, import, export, ask, log, hardest card, reset stats, exit):
+hardest card
+The hardest card is "Russia". You have 3 errors answering it.
+
+Input the action (add, remove, import, export, ask, log, hardest card, reset stats, exit):
+log
+File Name:
+log.txt
+The log has been saved.
+Input the action (add, remove, import, export, ask, log, hardest card, reset stats, exit):
+exit
+Bye bye!
